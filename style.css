@@ -1,0 +1,38 @@
+#header {
+    margin-top: -20px;
+    padding: 10px;
+}
+
+body {
+    background-color: #C9D6DF;
+}
+
+hr {
+    background-color: #F0F5F9;
+    height: 2px;
+    width: 60%;
+}
+
+.line {
+    width: 40%;
+}
+
+.test_img_res {
+    background-color: #52616B;
+    color:#F0F5F9;
+    padding: 30px;
+    width: 98%;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+
+img {
+    width: 350px;
+    height: 250px;
+    margin-left: -130px;
+}
+
+.mini_res {
+    margin-top: -250px;
+}
+
