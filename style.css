@@ -36,3 +36,22 @@ img {
     margin-top: -250px;
 }
 
+#footer {
+    bottom: 0;
+    position: fixed;
+    text-align: center;
+    background-color: #F0F5F9;
+    width: 100%;
+    margin-top: 200px;
+  }
+
+.concl {
+    background-color:dodgerblue;
+    color:#F0F5F9;
+    padding: 15px;
+    width: 98%;
+    margin-top: 20px;
+    border-radius: 20px;
+    text-align: left;
+}
+
